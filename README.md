@@ -1,2 +1,3 @@
-# test_git
-Only for testing purposes
+Readme de ejemplo.
+
+Para probar el git.
